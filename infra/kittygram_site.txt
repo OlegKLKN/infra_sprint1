@@ -1,0 +1,5 @@
+IP: 51.250.46.150;
+name_taski: https://kaleikino.hopto.org;
+name_kittygram: https://kittygram-oleg.duckdns.org;
+login: kaleikino1993;
+password: k9878VtP@@@;
